@@ -25,6 +25,10 @@ To remove a page, select the page thumbnail with your mouse and press the Delete
 To save these pages as a multipage PDF, click the File menu and select the Save As… menu item.  This will bring up a dialog so you can choose where to save the image and its filename.
 
 
+## Licensing
+This application requires a license for DotImage Document Imaging. You may also request a 30 day evaulation if youre evaluating if DotImage / our OCR is right for you.
+
+
 ## SDK Dependencies
 This app was built based on 2026.2.0.0. It targets .NET Framework 4.6.2 and was created in Visual Studio 2022. You must have our SDK installed (and licesed per above)
 
